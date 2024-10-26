@@ -2,6 +2,10 @@
 
 
 <!--    //header-->
+    <g id="marker">
+        <circle cx="3.5" cy="3.5" r="3" stroke="black"/>
+    </g>
+
     <g id="logo_header">
         <g clip-path="url(#clip0_1_84)">
             <path d="M11.3851 2.78943H135.439V97.6315H11.3851V2.78943Z" stroke="black" stroke-width="6"/>

@@ -23,8 +23,6 @@ export const Header = () => {
 };
 
 
-const StyledHeader = styled.div`
-    //max-width: 50px;
-    //width: 100%;
+const StyledHeader = styled.header`
     margin-top: 100px;
 `

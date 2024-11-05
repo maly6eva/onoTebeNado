@@ -9,14 +9,14 @@ import {font} from "../../../styles/Common";
 export const HeaderMenu = () => {
     return (
         <StyledHeaderMenu>
-            <ListItem>
-                <LinkItem>
+            <ListItem role={'menu'}>
+                <LinkItem role={'menuitem'}>
                     <Link href="">главная</Link>
                 </LinkItem>
-                <LinkItem>
+                <LinkItem role={'menuitem'}>
                     <Link href="">посмотреть лоты</Link>
                 </LinkItem>
-                <LinkItem>
+                <LinkItem role={'menuitem'}>
                     <Link href="">об аукционе</Link>
                 </LinkItem>
             </ListItem>

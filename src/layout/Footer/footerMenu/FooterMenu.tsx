@@ -8,14 +8,14 @@ import {font} from "../../../styles/Common";
 export const FooterMenu = () => {
     return (
         <StyledHeaderMenu>
-            <ListItem>
-                <LinkItem>
-                    <Link href="">главная</Link>
+            <ListItem role={'menu'} >
+                <LinkItem role={'menuitem'}>
+                    <Link href="" aria-hidden={'true'}>главная</Link>
                 </LinkItem>
-                <LinkItem>
+                <LinkItem role={'menuitem'}>
                     <Link href="">посмотреть лоты</Link>
                 </LinkItem>
-                <LinkItem>
+                <LinkItem role={'menuitem'}>
                     <Link href="">об аукционе</Link>
                 </LinkItem>
             </ListItem>

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/onoTebeNado/static/css/main.e6c13ad2.css",
+    "main.js": "/onoTebeNado/static/js/main.e9b52ca2.js",
+    "static/js/787.25eaef86.chunk.js": "/onoTebeNado/static/js/787.25eaef86.chunk.js",
+    "static/media/lotus-flower.webp": "/onoTebeNado/static/media/lotus-flower.e714fde093afe57326a9.webp",
+    "static/media/card_3.webp": "/onoTebeNado/static/media/card_3.9a35770c906d5f8565d6.webp",
+    "static/media/card_1.webp": "/onoTebeNado/static/media/card_1.00c154f5645eccb4eca7.webp",
+    "static/media/card_2.webp": "/onoTebeNado/static/media/card_2.ba527acc09ee5939f921.webp",
+    "static/media/sprite.svg": "/onoTebeNado/static/media/sprite.30ab4ad4e3cda5428a9d86079c218c70.svg",
+    "static/media/logo_white.svg": "/onoTebeNado/static/media/logo_white.038a082732f72a1c6358582118174d0c.svg",
+    "index.html": "/onoTebeNado/index.html",
+    "static/media/marker.svg": "/onoTebeNado/static/media/marker.323df3893edd93f113ef5134dbd0e445.svg",
+    "main.e6c13ad2.css.map": "/onoTebeNado/static/css/main.e6c13ad2.css.map",
+    "main.e9b52ca2.js.map": "/onoTebeNado/static/js/main.e9b52ca2.js.map",
+    "787.25eaef86.chunk.js.map": "/onoTebeNado/static/js/787.25eaef86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e9b52ca2.js"
+  ]
+}
